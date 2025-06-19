@@ -1,0 +1,23 @@
+.heading{
+    display: inline;
+}
+.img{
+    color: red;
+    float: right;
+}
+.city{
+    font-size: 20px;
+    color: green;
+    float: left;
+}
+.temp{
+    color: blue;
+    line-height: 30vh;
+    margin-left: -100px;
+    margin-top: 50px;
+    font-size: 50px;
+}
+table{
+    font-size: 20px;
+    border: 2px solid white;
+}
